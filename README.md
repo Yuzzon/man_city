@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Click the link to see [Deployed App on Firebase](https://m-city-97ece.web.app/).
 
 ## Available Scripts
 
